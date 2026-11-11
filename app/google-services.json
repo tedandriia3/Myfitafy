@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538785568218",
+    "project_id": "myfitafy-8067c",
+    "storage_bucket": "myfitafy-8067c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538785568218:android:52061d3e7ef4e3904a9ce3",
+        "android_client_info": {
+          "package_name": "com.byted.myfitafy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCae98u5sLS31p61ztTVUI2wpsF2ZR3yGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
